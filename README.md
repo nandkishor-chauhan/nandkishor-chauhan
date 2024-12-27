@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ About Me
-- 🌱 I’m currently learning 'React and Next.js to build more dynamic and performant web applications.' ***  
+- 🌱 I’m Senior Frontend Developer focused on  I’m currently working on Project 'React and Next.js to build more dynamic and performant web applications.' ***  
 - 📄 Know about my experiences: [My Portfolio](https://nandkishorchauhan.com.np/)  
 - ⚡ Fun fact: **I think I am funny!**
 - <a href="https://www.linkedin.com/in/Chauhan205315" >
