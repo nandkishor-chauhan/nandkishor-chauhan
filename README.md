@@ -62,7 +62,7 @@
 
 ### 📚 Ongoing Projects
 
-
+*Write the project here*
 ---
 
 
@@ -87,7 +87,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaykishor-chauhan&theme=radical&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chauhan205315&theme=radical&margin-w=15" alt="GitHub Trophies" />
 </p>
 <br />
 
