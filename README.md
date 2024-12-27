@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ About Me
-- 🌱 I’m Senior Frontend Developer focused on .NET Framework. And currently working on Project.
+- 🏢 I’m working at `Autosoft` as Senior Frontend Developer and focused on .NET Framework
 - 📄 Know about my experiences: [My Portfolio](https://nandkishorchauhan.com.np/)  
 - ⚡ Fun fact: **I think I am funny!**
 - <a href="https://www.linkedin.com/in/Chauhan205315" >
