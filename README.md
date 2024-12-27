@@ -35,7 +35,7 @@
 ### 💼 Resume & Portfolio
 🚀 *Explore my work and projects:* 
 
-[*Visit My Portfolio*](https://cjaykishor.com.np/)  
+[*Visit My Portfolio*](https://nandkishorchauhan.com.np/)  
 
 📄 *Download my Resume:*  
 
@@ -51,9 +51,9 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaykishor-chauhan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykishor-chauhan&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykishor-chauhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chauhan205315&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chauhan205315&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chauhan205315&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <br />
 
