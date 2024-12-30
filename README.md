@@ -71,7 +71,7 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css,git,vscode" />
     <p></p> <!-- Another empty paragraph for spacing -->
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,c,java,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,angularjs,express,mysql,c,java,python,c#" />
 </div>
 <br/>
 
@@ -87,7 +87,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chauhan205315&theme=radical&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nandkishor-chauhan&theme=radical&margin-w=15" alt="GitHub Trophies" />
 </p>
 <br />
 
