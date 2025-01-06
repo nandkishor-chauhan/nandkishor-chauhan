@@ -87,7 +87,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandkishor-chauhan&theme=radical&margin-w=15" alt="GitHub Trophies" />
+    [![trophy](https://github-profile-trophy.vercel.app/?nandkishor-chauhan=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 <br />
 
