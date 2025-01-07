@@ -11,7 +11,7 @@
 - 🏢 I’m working at `Auto Soft` as Senior Frontend Developer and focused on .NET Framework
 - 📄 Know about my experiences: [My Portfolio](https://nandkishorchauhan.com.np/)  
 - ⚡ Fun fact: **I think I am funny!**
-- <a href="https://www.linkedin.com/in/www.linkedin.com/in/nandkishor-chauhan" >
+- <a href="https://www.linkedin.com/in/nandkishor-chauhan" >
   <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue?style=social&logo=linkedin" alt="Follow me on LinkedIn" width="200"/>
 </a>
 
@@ -22,10 +22,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://instagram.com/ryan_chauhan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/ryan_chauhan07" height="30" width="40" /></a>
-<a href="https://facebook.com/chauhan205315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/chauhan205315/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chauhan205315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chauhan205315/" height="30" width="40" /></a>
-<a href="https://wa.me/+9779824210880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp.com/+9779824210880" height="30" width="40" />
+<a href="https://facebook.com/er.nandkishorchauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/er.nandkishorchauhan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nandkishor-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nandkishor-chauhan/" height="30" width="40" /></a>
 </a>
 </p>
 <br/>
