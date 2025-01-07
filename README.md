@@ -11,7 +11,7 @@
 - 🏢 I’m working at `Auto Soft` as Senior Frontend Developer and focused on .NET Framework
 - 📄 Know about my experiences: [My Portfolio](https://nandkishorchauhan.com.np/)  
 - ⚡ Fun fact: **I think I am funny!**
-- <a href="https://www.linkedin.com/in/Chauhan205315" >
+- <a href="https://www.linkedin.com/in/www.linkedin.com/in/nandkishor-chauhan" >
   <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue?style=social&logo=linkedin" alt="Follow me on LinkedIn" width="200"/>
 </a>
 
